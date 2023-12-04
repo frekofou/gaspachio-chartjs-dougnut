@@ -13,7 +13,7 @@ function isDataArrayObject(data) {
 
 export default {
     editor: {
-        label: 'Chart - Pie',
+        label: 'Gaspach.io - Chart - Pie',
         icon: 'logos/chartjs',
         customStylePropertiesOrder: [
             ['displayType', 'isLegend', 'legendPosition', 'legendAlignement', 'legendSize'],
