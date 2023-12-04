@@ -1,0 +1,25 @@
+{
+    "name": "gaspachio-chartjs-pie",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/weweb-assets/chartjs-vertical-bar"
+    },
+    "version": "3.1.0",
+    "scripts": {
+        "build": "weweb build",
+        "serve": "weweb serve"
+    },
+    "devDependencies": {
+        "@vue/eslint-config-prettier": "^6.0.0",
+        "@weweb/cli": "latest",
+        "eslint": "^7.7.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "eslint-plugin-vue": "7.0.0-beta.4",
+        "prettier": "^2.1.2"
+    },
+    "dependencies": {
+        "ajv": "^8.12.0",
+        "chart.js": "^3.7.0",
+        "chartjs-plugin-datalabels": "^2.0.0"
+    }
+}
